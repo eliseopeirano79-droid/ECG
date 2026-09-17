@@ -1,0 +1,16 @@
+{
+  "name": "Orbitali ECG",
+  "short_name": "Orbitali ECG",
+  "description": "Atlante vettoriale 3D di derivazioni, range di normalità e sistema di conduzione",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#141b2b",
+  "theme_color": "#141b2b",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
